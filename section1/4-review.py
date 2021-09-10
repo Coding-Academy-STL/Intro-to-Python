@@ -20,7 +20,7 @@ We learned printing, variables, and reading input.
 
 # You can't mix and match different types when doing addition
 
-# Addition will actually add two integer
+# Addition will actually add two integers
 sum = 2 + 2 # OK
 
 # Addition will mash together (concatenate) two strings

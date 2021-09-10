@@ -15,8 +15,8 @@
 {"cell_type":"code","exec_count":0,"id":"f71a01","input":"","pos":7,"type":"cell"}
 {"cell_type":"markdown","id":"72bbd7","input":"### Activity 1: Print something fun!\n\nEach member of the group should print their name, their age, and their favorite food.","pos":6,"type":"cell"}
 {"cell_type":"markdown","id":"858c12","input":"### Activity 3: I Love Printing!\n\nBobert has a lot of stuff that he needs you to print. First, print your birthday. Next, print a fun fact about yourself. Then, print `9 + 10` and print ``\"9 + 10\"``. Finally, print your favorite food. Additionally, print a blank line between each line of output!","pos":17,"type":"cell"}
-{"cell_type":"markdown","id":"cc490d","input":"## Printing Output\n\nLet's get started with learning Python!","pos":1,"type":"cell"}
+{"cell_type":"markdown","id":"cc490d","input":"## 1.1 Printing Output\n\nLet's get started with learning Python!","pos":1,"type":"cell"}
 {"cell_type":"markdown","id":"cdf7c5","input":"### Activity 2: Attack of the Pythons I\n\nAn army of Pythons has attacked your city and you are trying to get into your secret apocalypse bunker. Fortunately, it has a password-protected lock so the Pythons can't get inside. Unfortunately, you forgot what the password is! Fortunately, you remember that it is equal to the value of the complicated mathematical expression `2+2-5*(9+7*2*(6+3*2))`. Unfortunately, you can't do quick maths in your head. Print out your password using Python!","pos":15,"type":"cell"}
 {"cell_type":"raw","id":"5e7d6f","input":"INTRODUCTION TO\n    ______  __________  ______  _   __\n   / __ \\ \\/ /_  __/ / / / __ \\/ | / /\n  / /_/ /\\  / / / / /_/ / / / /  |/ / \n / ____/ / / / / / __  / /_/ / /|  /  \n/_/     /_/ /_/ /_/ /_/\\____/_/ |_/   ","pos":0,"type":"cell"}
-{"id":0,"time":1631283238614,"type":"user"}
+{"id":0,"time":1631291080357,"type":"user"}
 {"last_load":1631283227943,"type":"file"}
