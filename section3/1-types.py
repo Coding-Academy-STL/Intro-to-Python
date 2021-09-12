@@ -25,7 +25,7 @@ int4 = 987654321
 str1 = "Billiam Wender"
 str2 = "1"
 str3 = "2 + 2 = 5"
-str4 = "" # empty string that contains no text
+str4 = ""  # empty string that contains no text
 
 # BOOLEANS: variables that can only take on the value of True or False
 # You can convert variables to booleans using bool( )
@@ -42,13 +42,10 @@ bool2 = False
 # Recall that 2 and "2" are COMPLETELY DIFFERENT
 # 2 is an integer while "2" is a string
 # We can convert "2" to an integer and then add:
-2 + int("2")	# 4
-
-
+2 + int("2")  # 4
 '''
 Let's look at Activity 1!
 '''
-
 
 # Recall that integers are whole numbers
 # What about decimals?
@@ -65,15 +62,11 @@ float2 = 3.14
 float3 = 2.5
 float4 = -1729.42
 
-
 # Remember how I said you can't mix and match types when doing addition?
 # There is ONE exception.
 # Python will automatically convert integers to floats when doing operations involving one integer and float.
 # So the following is valid:
-2 + 3.14 # 5.14
-
-
+2 + 3.14  # 5.14
 '''
 Let's work on Activities 2 and 3!
 '''
-

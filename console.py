@@ -50,4 +50,3 @@ type(name)
 age = 13
 type(age)
 
-
