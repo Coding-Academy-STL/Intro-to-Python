@@ -1,37 +1,26 @@
 # Intro to Python
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LadueCS/Intro-to-Python/HEAD)
+
 Learn Python by making a fun tic-tac-toe game!
-
-
-REWRITE THE STUFF BELOW
-
-## For everyone
-
- - Click on the settings gear on the left, and make sure your indent type is set to "tabs" and your indent size is "4". This will prevent Python from complaining about your indentation!
-
- - Make sure you press TAB when indenting. DO NOT PRESS SPACEBAR FOUR TIMES. If your tab key doesn't work for some reason, tell your group leader!
 
 
 ## For students
 
- - First, create a Repl.it account.
+ - You can run the `.ipynb` notebook files with any [Jupyter notebook](https://jupyter.org/) editor such as [Binder](https://mybinder.org/v2/gh/LadueCS/Intro-to-Python/HEAD).
 
- - Click "Intro to Python v2" at the top, then click the button "Fork" to **create a copy** of this project.
- 
- - After you have your own copy, click "Share" in the top right and **send the link** to your group leader.
+ - If your group is using [CoCalc](https://calc.exozy.me/), create a new account. Your group leader will share a copy of the project with you.
 
  - Watch the group leader's shared screen during the examples, and work on your own copy for the activities!
 
 
 ## For group leaders
 
- - Make sure you have made your **own copy** of this project and are not editing the main Repl.it
+ - Make sure you have made your **own copy** of this project and are not editing the main CoCalc project.
 
- - Make sure you are giving students plenty of chances to **code and do activities**.
+ - Make sure you are giving students plenty of chances to **write code and do activities**.
 
  - **Go slow** and pay attention to how well the students are understanding by asking **lots of questions**.
-
- - Use the console when you think it's more convenient.
  
 
 ## Useful links for group leaders
