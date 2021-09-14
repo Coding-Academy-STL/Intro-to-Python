@@ -1,0 +1,10 @@
+]0;~/Intro-to-Python/section3[01;34m~/Intro-to-Python/section3[00m$ [K]0;~/Intro-to-Python/section3[01;34m~/Intro-to-Python/section3[00m$ ls
+1-types.ipynb  3-func.py    act11.py  act13.py  act15.py  act17.py  ch1.py
+2-lists.ipynb  4-review.py  act12.py  act14.py  act16.py  act18.py  ch2.py
+]0;~/Intro-to-Python/section3[01;34m~/Intro-to-Python/section3[00m$ python3 ch1.py
+]0;~/Intro-to-Python/section3[01;34m~/Intro-to-Python/section3[00m$ /[Kaljkav
+bash: aljkav: command not found
+]0;~/Intro-to-Python/section3[01;34m~/Intro-to-Python/section3[00m$ s[Kpython3[K[K[K[K[K[K[Kchmod +x ch1[K[K[K./ch1.py
+]0;~/Intro-to-Python/section3[01;34m~/Intro-to-Python/section3[00m$ python3 ./ch1.py
+123
+]0;~/Intro-to-Python/section3[01;34m~/Intro-to-Python/section3[00m$ 
