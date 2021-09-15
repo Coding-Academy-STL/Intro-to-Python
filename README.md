@@ -21,11 +21,4 @@ Learn Python by making a fun tic-tac-toe game!
  - Make sure you are giving students plenty of chances to **write code and do activities**.
 
  - **Go slow** and pay attention to how well the students are understanding by asking **lots of questions**.
- 
-
-## Useful links for group leaders
-
- - [Plan](https://docs.google.com/document/d/1nT-JA9hkJkWmAp9FuDlEd1q61aab3DMOioprgXF0e0M/edit?usp=sharing)
-
- - [Data](https://docs.google.com/spreadsheets/d/1_9oxVn-_6h0tNTME-m3UxhoDzE4jW03NurIo2buTmlY/edit?usp=sharing)
 
