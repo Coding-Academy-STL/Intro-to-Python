@@ -12,3 +12,5 @@ ACTIVITY 18: Attack of the Pythons VI
 '''
 
 
+# string(s) of numbers to list of integers
+
