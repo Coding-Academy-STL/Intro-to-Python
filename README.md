@@ -7,16 +7,14 @@ Learn Python by making a fun tic-tac-toe game!
 
 ## For students
 
- - You can run the `.ipynb` notebook files with any [Jupyter notebook](https://jupyter.org/) editor such as [Binder](https://mybinder.org/v2/gh/LadueCS/Intro-to-Python/HEAD).
+ - You can run the `.ipynb` notebook files with any [Jupyter notebook](https://jupyter.org/) editor such as [Binder](https://mybinder.org/v2/gh/LadueCS/Intro-to-Python/HEAD) or [VSCode](https://code.visualstudio.com/docs/datascience/jupyter-notebooks).
 
- - If your group is using [CoCalc](https://calc.exozy.me/), create a new account. Your group leader will share a copy of the project with you.
+ - If your group is using [exohub](https://hub.exozy.me/), create a new account. You can create a copy of the project by clicking the Git icon and cloning this link: https://github.com/LadueCS/Intro-to-Python
 
  - Watch the group leader's shared screen during the examples, and work on your own copy for the activities!
 
 
 ## For group leaders
-
- - Make sure you have made your **own copy** of this project and are not editing the main CoCalc project.
 
  - Make sure you are giving students plenty of chances to **write code and do activities**.
 

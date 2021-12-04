@@ -1,8 +1,3 @@
-# CoCalc
-*.term
-*.sage-chat
-*.sage-jupyter2
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
