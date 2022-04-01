@@ -70,11 +70,9 @@ Here's [2048](https://repl.it/@Ta180m/2048#main.py), similar to a project we're 
 Check out this [social media bot](https://social.exozy.me/@ebooks/), created using some powerful artificial intelligence libraries and [only 200 lines of code](https://git.exozy.me/Ta180m/ebooks)!
 
 
-## Can I start coding?
+## How do I use this course?
 
-Hang on one sec.
-
-You can run the `.ipynb` notebook files with any [Jupyter notebook](https://jupyter.org/) editor such as [Binder](https://mybinder.org/v2/gh/LadueCS/Intro-to-Python/HEAD) or [VSCode](https://code.visualstudio.com/docs/datascience/jupyter-notebooks).
+You can run the `.ipynb` notebook files with any [Jupyter notebook](https://jupyter.org/) editor such as [Binder](https://mybinder.org/v2/gh/LadueCS/Intro-to-Python/HEAD) or [VSCode](https://code.visualstudio.com/docs/datascience/jupyter-notebooks). Binder is way easier, and the layout is pretty simple. You can select a file on the left. To run code, click inside the cell and press the run button at the top. Amazing, isn't it?
 
 
 ## What are some good resources for learning Python outside of this course?
@@ -92,4 +90,4 @@ I'm going to be blunt here: teaching beginners is really freaking hard. Seriousl
 - Focus on **guiding and helping students through solving activities** instead of lecturing endlessly to them. You don't learn by listening to someone talking about Python. You learn by writing lots and lots of code. The students need plenty of chances to **write code and do activities**.
 - **Go slow**. If you think you're going too fast and no one's understanding anything, you're going too fast.
 - **Ask an insane amount of questions**. Like, make it feel like an interrogation. Questions are the ultimate tool for figuring out how well students are understanding. **Call on people randomly!** It's fun!
-- When working on activities and projects, don't give students the solution unless they're really stuck. And if the students aren't understanding anything and can't solve the activities, you're going too fast.
+- When working on activities and projects, don't give students the solution unless they're really stuck. **Don't do the activites for them.** And if the students aren't understanding anything and can't solve the activities, you're going too fast.
