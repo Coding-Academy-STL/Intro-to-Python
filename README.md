@@ -77,11 +77,7 @@ You can run the `.ipynb` notebook files with any [Jupyter notebook](https://jupy
 
 ## What are some good resources for learning Python outside of this course?
 
-Here are some great resources:
-- https://codingbat.com/python
-- https://www.learnpython.org/
-- https://wiki.python.org/moin/BeginnersGuide/NonProgrammers
-- https://docs.python.org/3/tutorial/index.html (advanced)
+Wow, what an overachiever! Just kidding, check out [this awesome list](https://github.com/LadueCS/Awesome-CS#python) for some truly awesome Python resouces.
 
 
 ## I'm teaching this course. What should I know?
