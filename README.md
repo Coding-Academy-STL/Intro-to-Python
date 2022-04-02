@@ -87,3 +87,4 @@ I'm going to be blunt here: teaching beginners is really freaking hard. Seriousl
 - **Go slow**. If you think you're going too fast and no one's understanding anything, you're going too fast.
 - **Ask an insane amount of questions**. Like, make it feel like an interrogation. Questions are the ultimate tool for figuring out how well students are understanding. **Call on people randomly!** It's fun!
 - When working on activities and projects, don't give students the solution unless they're really stuck. **Don't do the activites for them.** And if the students aren't understanding anything and can't solve the activities, you're going too fast.
+- Run the code for every example and talk a bit about it.
