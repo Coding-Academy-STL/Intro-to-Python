@@ -77,7 +77,7 @@ You can run the `.ipynb` notebook files with any [Jupyter notebook](https://jupy
 
 ## What are some good resources for learning Python outside of this course?
 
-Wow, what an overachiever! Just kidding, check out [this awesome list](https://github.com/LadueCS/Awesome-CS#python) for some truly awesome Python resouces.
+Wow, what an overachiever! Just kidding, check out [this awesome list](https://github.com/LadueCS/Awesome-CS#python) for some truly awesome Python resouces. (And some other bonus programming goodies!)
 
 
 ## I'm teaching this course. What should I know?
