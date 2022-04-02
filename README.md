@@ -88,3 +88,11 @@ I'm going to be blunt here: teaching beginners is really freaking hard. Seriousl
 - **Ask an insane amount of questions**. Like, make it feel like an interrogation. Questions are the ultimate tool for figuring out how well students are understanding. **Call on people randomly!** It's fun!
 - When working on activities and projects, don't give students the solution unless they're really stuck. **Don't do the activites for them.** And if the students aren't understanding anything and can't solve the activities, you're going too fast.
 - Run the code for every example and talk a bit about it.
+- Avoid using anything not mentioned in the course since it confuses students. So don't use `print(1, 2)`, `input('Hello')`, `a,b = 1,2`, `'My name is {}'.format('Billiam')`, `for i in range(10)`, and so on.
+
+
+## Contributing guide
+
+Interested in helping improve this course? Awesome. Lesson 3 through 12 all need to be expanded. Each lesson must contain 10 activities and should take the length of a one-hour meeting.
+
+Make sure the title uses a `#` heading and activites use `##` headings. All output should be cleared. Write as many examples as possible and keep the pace slow. Our goal is for the course to be optionally self-studyable if there isn't a teacher. Make sure the names of activites only have the first word and proper nouns capitalized. If you're not sure about a style detail, see `1-printing.ipynb` for a great example. We want a consistent style to look professional.
