@@ -10,7 +10,7 @@
 This course consists of 18 [Jupyter notebooks](https://jupyter.org). These notebooks are like regular paper notebooks, except they contain cells of code. To get started, fire up [Binder](https://mybinder.org/v2/gh/LadueCS/Intro-to-Python/HEAD). The layout is pretty simple: you can select any file on the left to open it. Start with [0-prologue.ipynb](0-prologue.ipynb). To run code, click inside the cell and press the run button at the top. Amazing, isn't it?
 
 
-## If I'm teaching this course, what should I know?
+## How should I teach this course?
 
 Teaching beginners is really freaking hard. Seriously. But here are some tips:
 - Focus on **guiding and helping students through solving activities** instead of lecturing endlessly to them. You don't learn by listening to someone talking about Python. You learn by writing lots and lots of code. The students need plenty of chances to **write code and do activities**.
@@ -22,7 +22,7 @@ Teaching beginners is really freaking hard. Seriously. But here are some tips:
 - **Walk around and look at your students' code** to help them.
 
 
-## Contributing guide
+## How can I contribute?
 
 Interested in helping improve this course? Awesome. Lesson 3 through 12 all need to be expanded. Each lesson must contain 10 activities and should take the length of a one-hour meeting.
 
