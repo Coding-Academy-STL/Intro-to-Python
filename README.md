@@ -14,7 +14,7 @@ This course consists of 18 [Jupyter notebooks](https://jupyter.org). These noteb
 
 Teaching beginners is really freaking hard. Seriously. But here are some tips:
 - Focus on **guiding and helping students through solving activities** instead of lecturing endlessly to them. You don't learn by listening to someone talking about Python. You learn by writing lots and lots of code. The students need plenty of chances to **write code and do activities**.
-- **Go slow**. If you think you're going too fast and no one's understanding anything, you're going too fast.
+- **Go slow**. If you think you're going too fast and no one's understanding anything, you're going too fast. Don't skip anything.
 - **Ask an insane amount of questions**. Like, make it feel like an interrogation. Questions are the ultimate tool for figuring out how well students are understanding. **Call on people randomly!** It's fun!
 - When working on activities and projects, don't give students the solution unless they're really stuck. **Don't do the activites for them.** And if the students aren't understanding anything and can't solve the activities, you're going too fast.
 - **Run the code for every example** and talk a bit about it.
@@ -27,3 +27,5 @@ Teaching beginners is really freaking hard. Seriously. But here are some tips:
 Interested in helping improve this course? Awesome. Lesson 3 through 12 all need to be expanded. Each lesson must contain 10 activities and should take the length of a one-hour meeting.
 
 Make sure the title uses a `#` heading and activites use `##` headings. All output should be cleared. Write as many examples as possible and keep the pace slow. Remember to add a TL;DR section at the end of the lesson. Our goal is for the course to be optionally self-studyable if there isn't a teacher. Make sure the names of activites only have the first word and proper nouns capitalized. If you're not sure about a style detail, see [1-printing.ipynb](1-printing.ipynb) for a great example. We want a consistent style to look professional.
+
+Activities are really difficult to write. The general idea is that the coding part should be boring so it's easy enough for beginners, and you can spice things up with a good story around the problem. As for characters, use the Wender siblings, Billiam, Bobert, and Bella. Billiam is the master programmer that's also interested in sketchy things like becoming a professional spammer. Bobert is an absolute beginner and always writes code that doesn't work. Bella is just there when we need a third character.
