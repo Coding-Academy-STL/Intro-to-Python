@@ -14,12 +14,13 @@ This course consists of 18 [Jupyter notebooks](https://jupyter.org). These noteb
 
 Teaching beginners is really freaking hard. Seriously. But here are some tips:
 - Focus on **guiding and helping students through solving activities** instead of lecturing endlessly to them. You don't learn by listening to someone talking about Python. You learn by writing lots and lots of code. The students need plenty of chances to **write code and do activities**.
-- **Go slow**. If you think you're going too fast and no one's understanding anything, you're going too fast. Don't skip anything.
+- **Go slow.** If you think you're going too fast and no one's understanding anything, you're going too fast. Don't skip anything. Make sure the students do every activity.
 - **Ask an insane amount of questions**. Like, make it feel like an interrogation. Questions are the ultimate tool for figuring out how well students are understanding. **Call on people randomly!** It's fun!
 - When working on activities and projects, don't give students the solution unless they're really stuck. **Don't do the activites for them.** And if the students aren't understanding anything and can't solve the activities, you're going too fast.
 - **Run the code for every example** and talk a bit about it.
 - **Avoid using anything not mentioned in the course** since it confuses students. So don't use `print(1, 2)`, `input('Hello')`, `a,b = 1,2`, `'My name is {}'.format('Billiam')`, `for i in range(10)`, and so on.
 - **Walk around and look at your students' code** to help them.
+- **Teach one lesson per meeting.** Don't go on to the next lesson if you finish early. The two exceptions are the prologue and epilogue, since those two lessons are short.
 
 
 ## How can I contribute?
