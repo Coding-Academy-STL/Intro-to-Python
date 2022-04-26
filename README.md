@@ -25,8 +25,15 @@ Teaching beginners is really freaking hard. Seriously. But here are some tips:
 
 ## How can I contribute?
 
-Interested in helping improve this course? Awesome. Lessons 7, 8, 9, 10, 11, 12, 14, 15, and A all need to be expanded. Each lesson must contain 10 activities and should take the length of a one-hour meeting.
+Interested in helping improve this course? Awesome. Lessons 7, 8, 9, 10, 11, 12, 14, and A all need to be expanded. Our goal is for the course to be optionally self-studyable if there isn't a teacher, so it should have plenty of examples and activities.
 
-Make sure the title uses a `#` heading and activites use `##` headings. All output should be cleared. Write as many examples as possible and keep the pace slow. Remember to add a TL;DR section at the end of the lesson. Our goal is for the course to be optionally self-studyable if there isn't a teacher. Make sure the names of activites only have the first word and proper nouns capitalized. If you're not sure about a style detail, see [1-printing.ipynb](1-printing.ipynb) for a great example. We want a consistent style to look professional.
+Guidelines:
+- Each lesson must contain 10 activities and should take the length of a one-hour meeting.
+- The title uses a `#` heading and activites use `##` headings. Add a new line between headings and paragraphs.
+- All output should be cleared.
+- Write as many examples as possible and keep the pace slow.
+- Add a TL;DR section at the end of the lesson.
+- The names of activites should only have the first word and proper nouns capitalized.
+- If you're not sure about a style detail, see [1-printing.ipynb](1-printing.ipynb) for a great example.
 
 Activities are really difficult to write. The general idea is that the coding part should be boring so it's easy enough for beginners, and you can spice things up with a good story around the problem. As for characters, use the Wender siblings, Billiam, Bobert, and Bella. Billiam is the master programmer that's also interested in sketchy things like becoming a professional spammer. Bobert is an absolute beginner and always writes code that doesn't work. Bella is just there when we need a third character.
