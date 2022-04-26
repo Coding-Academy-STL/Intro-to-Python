@@ -5,12 +5,12 @@
 🐍 A simple introduction to Python for everyone!
 
 
-## How do I start learning?
+## Learning
 
 This course consists of 18 [Jupyter notebooks](https://jupyter.org). These notebooks are like regular paper notebooks, except they contain cells of code. To get started, fire up [Binder](https://mybinder.org/v2/gh/LadueCS/Intro-to-Python/HEAD). The layout is pretty simple: you can select any file on the left to open it. Start with [0-prologue.ipynb](0-prologue.ipynb). To run code, click inside the cell and press the run button at the top. Amazing, isn't it?
 
 
-## How should I teach this course?
+## Teaching
 
 Teaching beginners is really freaking hard. Seriously. But here are some tips:
 - Focus on **guiding and helping students through solving activities** instead of lecturing endlessly to them. You don't learn by listening to someone talking about Python. You learn by writing lots and lots of code. The students need plenty of chances to **write code and do activities**.
@@ -23,7 +23,7 @@ Teaching beginners is really freaking hard. Seriously. But here are some tips:
 - **Teach one lesson per meeting.** Don't go on to the next lesson if you finish early. The two exceptions are the prologue and epilogue, since those two lessons are short.
 
 
-## How can I contribute?
+## Contributing
 
 Interested in helping improve this course? Awesome. Lessons 7, 8, 9, 10, 11, 12, 14, and A all need to be expanded. Our goal is for the course to be optionally self-studyable if there isn't a teacher, so it should have plenty of examples and activities.
 
