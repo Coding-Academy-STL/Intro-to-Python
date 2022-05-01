@@ -25,7 +25,7 @@ Teaching beginners is really freaking hard. Seriously. But here are some tips:
 
 ## Contributing
 
-Interested in helping improve this course? Awesome. Lessons 7, 8, 10, 11, 12, 14, and A all need to be expanded. Our goal is for the course to be optionally self-studyable if there isn't a teacher, so it should have plenty of examples and activities.
+Interested in helping improve this course? Awesome. Lessons 7, 8, 10, 12, 14, and A all need to be expanded. Our goal is for the course to be optionally self-studyable if there isn't a teacher, so it should have plenty of examples and activities.
 
 Guidelines:
 - Each lesson must contain 10 activities and should take the length of a one-hour meeting.
