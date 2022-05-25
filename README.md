@@ -1,13 +1,13 @@
 # Intro to Python
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LadueCS/Intro-to-Python/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fcodeberg.org%2FLadueCS%2FIntro-to-Python.git/HEAD)
 
 🐍 A simple introduction to Python for everyone!
 
 
 ## Learning
 
-This course consists of 18 [Jupyter notebooks](https://jupyter.org). These notebooks are like regular paper notebooks, except they contain cells of code. To get started, fire up [Binder](https://mybinder.org/v2/gh/LadueCS/Intro-to-Python/HEAD). The layout is pretty simple: you can select any file on the left to open it. Start with [0-prologue.ipynb](0-prologue.ipynb). To run code, click inside the cell and press the run button at the top. Amazing, isn't it?
+This course consists of 18 [Jupyter notebooks](https://jupyter.org). These notebooks are like regular paper notebooks, except they contain cells of code. To get started, fire up [Binder](https://mybinder.org/v2/git/https%3A%2F%2Fcodeberg.org%2FLadueCS%2FIntro-to-Python.git/HEAD). The layout is pretty simple: you can select any file on the left to open it. Start with [0-prologue.ipynb](0-prologue.ipynb). To run code, click inside the cell and press the run button at the top. Amazing, isn't it?
 
 
 ## Teaching
