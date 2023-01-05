@@ -33,7 +33,7 @@ Teaching beginners is really freaking hard. Seriously. But here are some tips:
 
 ## Contributing
 
-Interested in helping improve this course? Awesome. Lessons 6 through A need to be reviewed. Our goal is for the course to be optionally self-studyable if there isn't a teacher, so it should have plenty of examples and activities. Here are some guidelines:
+Interested in helping improve this course? Awesome. [Lessons 6 through A need to be reviewed.](https://codeberg.org/LadueCS/Intro-to-Python/issues/10) Our goal is for the course to be optionally self-studyable if there isn't a teacher, so it should have plenty of examples and activities. Here are some guidelines:
 
 - Each lesson must contain 10 activities and should take the length of a one-hour meeting.
 
@@ -47,4 +47,4 @@ Interested in helping improve this course? Awesome. Lessons 6 through A need to 
 
 - If you're not sure about a style detail, see [1-printing.ipynb](1-printing.ipynb) for a great example.
 
-Activities are really difficult to write. The general idea is that the coding part should be boring so it's easy enough for beginners, and you can spice things up with a good story around the problem. As for characters, use the Wender siblings, Billiam, Bobert, and Bella. Billiam is the master programmer that's also interested in sketchy things like becoming a professional spammer. Bobert is an absolute beginner and always writes code that doesn't work. Bella is just there when we need a third character.
+Activities are really difficult to write. The general idea is that the coding part should be boring so it's easy enough for beginners, and you can spice things up with a good story around the problem. As for characters, use the Wender siblings, Billiam, Bobert, and Bella. Billiam is the generic good guy. Bobert's code never works, but he's interested in sketchy things like becoming a professional spammer. Bella is an expert programmer that somehow gets caught up in weird scenarios all the time. See the [lore repo](https://codeberg.org/LadueCS/lore) for more information about them.
